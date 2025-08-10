@@ -313,7 +313,7 @@ This Databricks utility simplifies data ingestion by providing a robust, metadat
 
 📂 **Source Code**  
 Access the complete codebase for this Databricks ingestion utility:  
-🔗 [GitHub Repository – Databricks Ingestion Utility](https://github.com/mustafasajid/databricks_enterprise_framework/tree/main/databricks)
+🔗 [GitHub Repository – Databricks Ingestion Utility](https://github.com/mustafasajid/databricks_enterprise_framework/tree/main)
 
 
 ## Future Enhancements
